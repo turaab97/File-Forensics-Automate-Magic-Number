@@ -45,7 +45,7 @@ Examples
 Analyze a single file:
 
 ./file-analyzer.sh secret.bin
-# Output: secret.bin: PNG image (via magic number 89 50 4E 47)
+Output: secret.bin: PNG image (via magic number 89 50 4E 47)
 
 Batch analyze:
 
