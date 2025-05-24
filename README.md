@@ -26,7 +26,7 @@ Installation
 
 Clone the repo:
 
-git clone https://github.com/<your-username>/file-analyzer.git
+git clone https://github.com/turaab97/file-analyzer.git
 cd file-analyzer
 chmod +x file-analyzer.sh
 
